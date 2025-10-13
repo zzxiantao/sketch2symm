@@ -21,19 +21,19 @@ This approach effectively bridges the gap between abstract sketches and realisti
 
 The overall workflow is as follows:
 
-![image-20251013200519259](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251013200519259.png)
+![Overall Workflow](figure/figure2.pdf)
 
 Visualization of qualitative comparison on the ShapeNet-Synthetic dataset using **synthetic sketches**:
 
-![image-20251013200740084](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251013200740084.png)
+![Overall Workflow](figure/figure3.pdf)
 
 Visualization of qualitative comparison on the ShapeNet-Sketch dataset using **hand-drawn sketches**:
 
-![image-20251013200841039](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251013200841039.png)
+![Overall Workflow](figure/figure4.pdf)
 
 Qualitative comparison with diffusion-based methods on synthetic and hand-drawn sketches:
 
-![image-20251013200938326](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251013200938326.png)
+![Overall Workflow](figure/figure5.pdf)
 
 ---
 
