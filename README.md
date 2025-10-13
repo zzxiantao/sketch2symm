@@ -21,19 +21,19 @@ This approach effectively bridges the gap between abstract sketches and realisti
 
 The overall workflow is as follows:
 
-![Overall Workflow](figure/figure2.pdf)
+![Overall Workflow](figure/figure2.png)
 
 Visualization of qualitative comparison on the ShapeNet-Synthetic dataset using **synthetic sketches**:
 
-![Overall Workflow](figure/figure3.pdf)
+![Overall Workflow](figure/figure3.png)
 
 Visualization of qualitative comparison on the ShapeNet-Sketch dataset using **hand-drawn sketches**:
 
-![Overall Workflow](figure/figure4.pdf)
+![Overall Workflow](figure/figure4.png)
 
 Qualitative comparison with diffusion-based methods on synthetic and hand-drawn sketches:
 
-![Overall Workflow](figure/figure5.pdf)
+![Overall Workflow](figure/figure5.png)
 
 ---
 
